@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/anudheepnaidu" target="blank"><img src="https://img.shields.io/twitter/follow/anudheepnaidu?logo=twitter&style=for-the-badge" alt="anudheepnaidu" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m  **Frontend Developer**
 
 - 📫 How to reach me **anudeepavula009@gmail.com**
 
