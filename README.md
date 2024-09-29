@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Anudeep and I'm a Full-Stack Developer, from India</h2>
+<h2 align="left">Hi there, I'm Anudeep👦,
+A Full Stack Web developer🎯 and designer🎨 from India.</h2>
 
 ###
 
