@@ -32,6 +32,9 @@
   <a href="https://x.com/anudheep009" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
 </a>
+   <a href="https://leetcode.com/u/xanudeep009/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" />
+</a>
 </div>
 
  <hr/>
