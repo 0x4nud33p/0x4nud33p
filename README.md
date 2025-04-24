@@ -12,7 +12,7 @@
  
  🔭 I’m currently **building my ideas and trying to be an 100x dev**
  
-[//]: # ( 🌱 I’m currently learning **Solidity**)
+ 🌱 I’m currently learning **DevOps**
 
 💬 Ask me about **Javascript, Typescript, React, NodeJS... or anything [here](anudeepavula009@gmail.com)**
 
