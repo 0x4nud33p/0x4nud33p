@@ -12,7 +12,7 @@
  
  🔭 I’m currently **building my ideas and trying to be an 100x dev**
 
-💬 Ask me about **Javascript, Typescript, React, NodeJS... or anything [here](anudeepavula009@gmail.com)**
+💬 Ask me about **Typescript, React, Next.js, NodeJS... or anything [here](anudeepavula009@gmail.com)**
 
 
  </div>
