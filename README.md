@@ -9,8 +9,10 @@
 <br/>
 
 <div align="center">
+    
+- 🌱 I’m currently learning WEB3
  
- 🔭 I’m currently **building my ideas and trying to be an 100x dev**
+ 🔭 I’m **building my ideas and trying to be an 100x dev**
 
 💬 Ask me about **Typescript, React, Next.js, NodeJS... or anything [here](anudeepavula009@gmail.com)**
 
