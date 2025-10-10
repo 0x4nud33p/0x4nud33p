@@ -1,60 +1,52 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=0x4nud33p.0x4nud33p" />
+<!-- Visitor Badge -->
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=0x4nud33p.0x4nud33p" alt="visitor badge"/>
+</p>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anudeep+!;" />
-</h1>
-
-<h3 align="center">Creative software developer</h3>
-
-<br/>
-
+<!-- Typing SVG -->
 <div align="center">
-    
-- 🌱 I’m currently learning WEB3
- 
- 🔭 I’m **building my ideas and trying to be an 100x dev**
 
-💬 Ask me about **Typescript, React, Next.js, NodeJS... or anything [here](anudeepavula009@gmail.com)**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hi+There!+I'm++Anudeep.)](https://git.io/typing-svg)  
 
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:anudeepavula009@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/anudeepavula009/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://0x4nud33p.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a>
-  <a href="https://x.com/0x4nud33p" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
-</a>
-   <a href="https://leetcode.com/u/xanudeep009/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" />
-</a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages & Tools ⚒️</h2>
-<br/>
-<div align="center">
-    
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,nodejs,express,mongodb,postgres,prisma,nextjs,rust" width={100}/><br>
-</div>
+### 👨‍💻 About Me
 
-<br/>
-<hr/>          
-<h2 align="center">⚒️ Favorite Tools ⚒️</h2>
-<br/>
-<div align="center">
-  <img alt="GitHub" width="42px" src="https://img.icons8.com/fluent/50/000000/github.png" />
-  <img alt="Git" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-  <img alt="Visual Studio Code" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-</div>
-<br/>
-<hr/>  
-<br><br>   
+```diff
++ 🌱 Currently learning Web3
+ 🔭 Building ideas & striving to be a 100x developer
+ 💬 Ask me about TypeScript, Next.js, Node.js, or anything
+```
+
+---
+
+### 🌐 How to reach me
+
+<p align="center">
+  <a href="http://anudheep.xyz/"><img src="https://img.icons8.com/doodle/40/000000/portfolio.png" alt="Portfolio"/></a>
+  <a href="https://leetcode.com/u/0x4nud33p/"><img src="https://img.icons8.com/?size=40&id=wDGo581Ea5Nf&format=png&color=000000" alt="LeetCode"/></a>
+  <a href="https://www.linkedin.com/in/0x4nud33p/"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"/></a>
+  <a href="https://x.com/0x4nud33p"><img src="https://img.icons8.com/?size=50&id=yoQabS8l0qpr&format=png&color=000000" alt="Twitter"/></a>
+  <a href="https://discord.com/invite/0x4nud33p"><img src="https://img.icons8.com/fluent/42/000000/discord-logo.png" alt="Discord"/></a>
+  <a href="mailto:anudeepavula009@gmail.com"><img src="https://img.icons8.com/doodle/38/000000/gmail-new.png" alt="Email"/></a>
+</p>
+
+---
+
+### ⚒️ Tools I work with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,nodejs,express,mongodb,postgres,prisma,nextjs,rust" alt="Tech Stack" />
+</p>
+
+---
+
+### 🧰 Favorite Tools
+
+<p align="center">
+  <img src="https://img.icons8.com/fluent/50/000000/github.png" width="42px" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="42px" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="42px" alt="VS Code"/>
+</p>
+
+---
