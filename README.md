@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
 ```diff
-+ 🌱 Currently learning Web3
++ 🌱 Currently exploring Web3
  🔭 Building ideas & striving to be a 100x developer
  📖 reverse engineering, computer science
  💬 Ask me about TypeScript, Next.js, Node.js, or anything
