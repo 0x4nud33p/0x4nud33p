@@ -19,11 +19,15 @@
  💬 Ask me about TypeScript, Next.js, Node.js, or anything
 ```
 
----
+### Tools I work with
 
-### 🌐 How to reach me
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,rust,typescript,react,tailwind,nodejs,prisma" alt="Tech Stack" />
+</p>
 
-<p align="center">
+### How to reach me
+
+<p align="left">
   <a href="http://anudheep.xyz/"><img src="https://img.icons8.com/doodle/40/000000/portfolio.png" alt="Portfolio"/></a>
   <a href="https://leetcode.com/u/0x4nud33p/"><img src="https://img.icons8.com/?size=40&id=wDGo581Ea5Nf&format=png&color=000000" alt="LeetCode"/></a>
   <a href="https://www.linkedin.com/in/0x4nud33p/"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"/></a>
@@ -31,23 +35,3 @@
   <a href="https://discord.com/invite/0x4nud33p"><img src="https://img.icons8.com/fluent/42/000000/discord-logo.png" alt="Discord"/></a>
   <a href="mailto:anudeepavula009@gmail.com"><img src="https://img.icons8.com/doodle/38/000000/gmail-new.png" alt="Email"/></a>
 </p>
-
----
-
-### ⚒️ Tools I work with
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,nodejs,express,mongodb,postgres,prisma,nextjs,rust" alt="Tech Stack" />
-</p>
-
----
-
-### 🧰 Favorite Tools
-
-<p align="center">
-  <img src="https://img.icons8.com/fluent/50/000000/github.png" width="42px" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="42px" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="42px" alt="VS Code"/>
-</p>
-
----
